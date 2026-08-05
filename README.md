@@ -11,6 +11,7 @@ Professional visualization and analysis software for long-term VLF/LF recordings
 - NOAA GOES solar flare overlay
 - DOCX report export
 - PNG / PDF / SVG export
+- V1.0 envelope analyses
 
 ## Installation
 
